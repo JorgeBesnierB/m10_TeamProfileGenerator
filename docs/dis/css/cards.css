@@ -1,0 +1,15 @@
+.card{
+    margin: 30px auto;
+    border-color: black;
+    /* margin: auto; */
+}
+
+.card-img-top{
+    height: auto;
+    width: 100px;
+    margin: auto;
+}
+
+.card-body h5{
+    text-align: center;
+}
